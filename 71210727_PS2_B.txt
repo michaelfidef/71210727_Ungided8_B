@@ -1,0 +1,5 @@
+Hitunglah berapa liter air pada gelas D apabila gelas A dituangkan 1000L air!
+Dari gelas A mengalir air sebanyak 500 L ke gelas B, 
+Kemudian dari gelas B mengalir sebanyak 0 L ke gelas C,
+lalu dari gelas C mengalir sebanyak 0 L ke gelas D.
+jadi 0 L air pada gelas D apabila gelas A dituangkann 1000 L air.
